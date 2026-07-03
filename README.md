@@ -48,12 +48,4 @@ Volatility forecasting is a genuinely practical problem in finance — it feeds 
 
 The GARCH model here forecasts one-day-ahead conditional variance, while the LSTM predicts a 21-day rolling volatility measure. They're closely related but not identical targets, so the comparison should be read as directionally informative rather than a perfectly controlled experiment. Worth keeping in mind if you extend this.
 
-## What I'd add next
-
-- A regime classifier (high-vol vs. low-vol days) using Logistic Regression
-- Testing on more tickers to check if results generalize beyond AAPL
-- A cleaner apples-to-apples comparison between the two forecasting targets
-
 ---
-
-*Built as a self-project to explore volatility behavior in markets, using both statistical and machine learning approaches.*
