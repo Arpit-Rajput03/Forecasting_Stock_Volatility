@@ -1,4 +1,4 @@
-# Stock Volatility Analysis & Forecasting
+#  Forecasting Stock Volatility
 
 This project digs into how stock volatility behaves over time and how well it can be forecasted — using Apple (AAPL) as the case study, with about 10 years of daily price data.
 
